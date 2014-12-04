@@ -6,4 +6,9 @@ Requirements for make:
 * install libusb-1.0-0-dev
 * install libcfitsio3-dev
 
+Features:
+
+* Set exposure, gain, offset
+* RAW, Test, FITS modes
+
 
